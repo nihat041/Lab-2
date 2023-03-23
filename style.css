@@ -1,0 +1,81 @@
+.logInPage {
+    padding: 100px;
+    background-color: rgb(233, 228, 228);
+}
+    
+h1 {
+    text-align: center;
+    
+    padding: 50px;
+}
+.logInBox {
+      width: 80%;
+      background-color: white;
+      
+      display: flex;
+      margin-left: 10%;
+    }
+.leftSide {
+    
+        width: 150%;}
+img {
+          width: 100%;
+     }
+      
+.rightSide {
+        padding: 50px;
+        width: 77%;}
+.signInBox {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;}
+h1 {
+            margin: 0;
+            padding: 0;
+          }
+.iconBox {
+            color: gray;}
+i {
+  margin: 0 10px;
+  }
+          
+        
+input {
+          width: 100%;
+          padding: 10px;
+          outline: none;
+        }
+h2 {
+          font-size: 18px;
+        }
+button {
+          width: 100%;
+          color: white;
+          background-color: rgb(242, 148, 54);
+          outline: none;
+          border: none;
+          padding: 20px 0;
+          border-radius: 5px;
+          margin: 20px 0;
+        }
+.rememberBox {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;}
+label {
+    padding: 10px;
+            font-size: 15px;
+            color: rgb(242, 148, 54);
+          }
+h3 {
+            font-size: 15px;
+          }
+        
+.signUpBox {
+          display: flex;
+          justify-content: center;
+          align-items: center;}
+.signUpText {
+            color: rgb(242, 148, 54);
+          }
+        
